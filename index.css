@@ -68,7 +68,7 @@ nav {
   position: fixed;
   right: 0rem;
   top: 0;
-  background:red ;
+  background:crimson ;
   padding: 1.2rem;
   border-radius: 0% 0% 0% 40%;
 }
@@ -88,7 +88,7 @@ nav {
 .nav-list {
   width: 24rem;
   height: 100vh;
-  background-color:red;
+  background-color:crimson;
   position: fixed;
   top: 0;
   right: -26rem;
@@ -116,7 +116,7 @@ nav {
 }
 
 .nav-link:hover {
-  color: #f9690e;
+  color: orangered;
 }
 
 @keyframes navLinkFade {
